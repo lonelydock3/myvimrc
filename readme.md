@@ -1,8 +1,8 @@
 # My vimrc Configuration
 
-If you think I would benefit in adding more stuff, please email me at lonelydock3@gmail.com.
+If you think I would benefit by adding more stuff, please email me at lonelydock3@gmail.com.
 
-Feel free to clone and use it yourself.
+Feel free to clone it and use it yourself.
 
 Thanks,
 
