@@ -34,7 +34,4 @@ set expandtab
 set path+=**
 set wildignore+=**/node_modules/**
 
-set ignorecase
-set smartcase
-
 
