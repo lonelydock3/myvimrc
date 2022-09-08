@@ -1,5 +1,4 @@
 colorscheme ron 
-hi Normal ctermbg=Black
 
 set nocompatible 
 
