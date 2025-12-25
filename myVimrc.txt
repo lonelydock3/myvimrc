@@ -36,4 +36,4 @@ set wildignore+=**/node_modules/**
 set ignorecase
 set smartcase
 
-
+set hlsearch
